@@ -1,0 +1,2 @@
+include ':app', ':app-debug'
+rootProject.name='My Application'
